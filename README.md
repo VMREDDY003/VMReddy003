@@ -1,6 +1,3 @@
-   ![logo](https://github.com/maheshcoder/maheshcoder/blob/master/Banner-resize.gif)
-  
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70606&background=0CFF2500&random=false&width=435&lines=i'm+VMReddy+;Always+Ready+to+Learn)](https://git.io/typing-svg)
 
 
